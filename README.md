@@ -7,6 +7,7 @@ Run following commands:
 Tools used:
 - [x] .NET 5.0
 - [x] PosgreSql
+- [x] SignalR
 - [x] Swagger
 
 
