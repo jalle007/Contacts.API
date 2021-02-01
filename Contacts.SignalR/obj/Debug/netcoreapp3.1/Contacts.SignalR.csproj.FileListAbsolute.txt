@@ -1,0 +1,9 @@
+E:\Projects\TESTS\Infinum\Contacts\Contacts.SignalR\bin\Debug\netcoreapp3.1\Contacts.SignalR.deps.json
+E:\Projects\TESTS\Infinum\Contacts\Contacts.SignalR\bin\Debug\netcoreapp3.1\Contacts.SignalR.dll
+E:\Projects\TESTS\Infinum\Contacts\Contacts.SignalR\bin\Debug\netcoreapp3.1\Contacts.SignalR.pdb
+E:\Projects\TESTS\Infinum\Contacts\Contacts.SignalR\obj\Debug\netcoreapp3.1\Contacts.SignalR.csprojAssemblyReference.cache
+E:\Projects\TESTS\Infinum\Contacts\Contacts.SignalR\obj\Debug\netcoreapp3.1\Contacts.SignalR.AssemblyInfoInputs.cache
+E:\Projects\TESTS\Infinum\Contacts\Contacts.SignalR\obj\Debug\netcoreapp3.1\Contacts.SignalR.AssemblyInfo.cs
+E:\Projects\TESTS\Infinum\Contacts\Contacts.SignalR\obj\Debug\netcoreapp3.1\Contacts.SignalR.csproj.CoreCompileInputs.cache
+E:\Projects\TESTS\Infinum\Contacts\Contacts.SignalR\obj\Debug\netcoreapp3.1\Contacts.SignalR.dll
+E:\Projects\TESTS\Infinum\Contacts\Contacts.SignalR\obj\Debug\netcoreapp3.1\Contacts.SignalR.pdb

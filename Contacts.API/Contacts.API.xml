@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Contacts.API</name>
+    </assembly>
+    <members>
+        <member name="M:ContactsAPI.Controllers.ContactsController.GetAsync(System.Int32,System.String,System.String)">
+            <summary>
+             Get product list + detailed info
+            </summary>
+            <param name="maxprice"></param>
+            <param name="size"></param>
+            <param name="highlight"></param>
+            <returns>   ["Products"]   ["Info"] </returns>
+        </member>
+    </members>
+</doc>

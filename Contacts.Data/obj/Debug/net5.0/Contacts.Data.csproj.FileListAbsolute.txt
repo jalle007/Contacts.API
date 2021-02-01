@@ -1,0 +1,15 @@
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\bin\Debug\net5.0\Contacts.Data.deps.json
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\bin\Debug\net5.0\Contacts.Data.dll
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\bin\Debug\net5.0\ref\Contacts.Data.dll
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\bin\Debug\net5.0\Contacts.Data.pdb
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\obj\Debug\net5.0\Contacts.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\obj\Debug\net5.0\Contacts.Data.AssemblyInfoInputs.cache
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\obj\Debug\net5.0\Contacts.Data.AssemblyInfo.cs
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\obj\Debug\net5.0\Contacts.Data.csproj.CoreCompileInputs.cache
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\obj\Debug\net5.0\Contacts.Data.dll
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\obj\Debug\net5.0\ref\Contacts.Data.dll
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\obj\Debug\net5.0\Contacts.Data.pdb
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\obj\Debug\net5.0\Contacts.Data.csprojAssemblyReference.cache
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\bin\Debug\net5.0\Contacts.Data.runtimeconfig.json
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\bin\Debug\net5.0\Contacts.Data.runtimeconfig.dev.json
+E:\Projects\TESTS\Infinum\Contacts\Contacts.Data\obj\Debug\net5.0\Contacts.Data.genruntimeconfig.cache
