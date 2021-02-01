@@ -1,13 +1,15 @@
 This sample app shows how to create Contact objects and add multiple phone numbers.
 
-Run following command
-dotnet ef database update
+Run following commands:  
 
-Start the Contacts.API
+**dotnet ef database update**  
+
+**Start the Contacts.API**  
 
 Tools used:
-* .NET 5.0
-* PosgreSql
-* Swagger
+- [x] .NET 5.0
+- [x] PosgreSql
+- [x] Swagger
 
-note: Ensure PostgreSql server is running on localhost:5433
+
+Note: ensure PostgreSql server is running on localhost:5433
